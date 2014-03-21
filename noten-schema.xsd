@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xs:schema
+        xmlns:xs="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.uni-r.de"
+        xmlns="http://www.uni-r.de"
+        elementFormDefault="qualified">
+
+    <xs:element name="noten">
+        <xs:complexType>
+            <xs:sequence>
+
+                <xs:element name="kurs" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nummer" type="xs:int"/>
+                            <xs:element name="titel" type="xs:string"/>
+                            <xs:element name="semester" type="xs:string"/>
+                            <xs:element name="dozent" type="xs:string"/>
+                            <xs:element name="note" type="xs:float"/>
+                            <xs:element name="modul" type="xs:float"/>
+                            <xs:element name="punkte" type="xs:int"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

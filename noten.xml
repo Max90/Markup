@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="style-noten-web.xsl"?>
+<!--Dokumentbeginn-->
+<noten>
+    <kurs>
+        <nummer>123456</nummer>
+        <titel>Weißwurstessen</titel>
+        <semester>SS 2012</semester>
+        <dozent>Dr. Händlmeier</dozent>
+        <note>1.3</note>
+        <modul>1.2</modul>
+        <punkte>4</punkte>
+    </kurs>
+
+    <kurs>
+        <nummer>123756</nummer>
+        <titel>Masskrugstemmen</titel>
+        <semester>SS 2013</semester>
+        <dozent>Prof. Knei</dozent>
+        <note>3.2</note>
+        <modul>3.1</modul>
+        <punkte>7</punkte>
+    </kurs>
+
+    <kurs>
+        <nummer>133456</nummer>
+        <titel>Radlfahrn</titel>
+        <semester>WS 2012/2013</semester>
+        <dozent>Dr. Scott</dozent>
+        <note>5.0</note>
+        <modul>2.1</modul>
+        <punkte>4</punkte>
+    </kurs>
+
+    <kurs>
+        <nummer>123956</nummer>
+        <titel>Brezn salzn</titel>
+        <semester>SS 2014</semester>
+        <dozent>Salzer</dozent>
+        <note>2.3</note>
+        <modul>3.2</modul>
+        <punkte>5</punkte>
+    </kurs>
+
+    <kurs>
+        <nummer>023456</nummer>
+        <titel>Pizza aufwärmen</titel>
+        <semester>WS 2011/2012</semester>
+        <dozent>Dr. Händlmeier</dozent>
+        <note>1.8</note>
+        <modul>1.1</modul>
+        <punkte>7</punkte>
+    </kurs>
+
+    <kurs>
+        <nummer>122456</nummer>
+        <titel>Radieren</titel>
+        <semester>SS 2015</semester>
+        <dozent>Dr. Faber</dozent>
+        <note>2.7</note>
+        <modul>4.2</modul>
+        <punkte>8</punkte>
+    </kurs>
+
+    <kurs>
+        <nummer>123476</nummer>
+        <titel>Schafkopfn</titel>
+        <semester>SS 2010</semester>
+        <dozent>Prof. Tout</dozent>
+        <note>1.6</note>
+        <modul>6.2</modul>
+        <punkte>4</punkte>
+    </kurs>
+
+    <kurs>
+        <nummer>120476</nummer>
+        <titel>Schneemann bauen</titel>
+        <semester>WS 2010/11</semester>
+        <dozent>Captn Iglu</dozent>
+        <note>3.6</note>
+        <modul>5.2</modul>
+        <punkte>3</punkte>
+    </kurs>
+
+    <kurs>
+        <nummer>193476</nummer>
+        <titel>Grillen</titel>
+        <semester>SS 2015</semester>
+        <dozent>Prof. Grilli</dozent>
+        <note>2.6</note>
+        <modul>4.1</modul>
+        <punkte>9</punkte>
+    </kurs>
+
+    <kurs>
+        <nummer>823476</nummer>
+        <titel>Lagerfeuer ausbiesln</titel>
+        <semester>SS 2015</semester>
+        <dozent>Prof. FF</dozent>
+        <note>5.0</note>
+        <modul>6.3</modul>
+        <punkte>6</punkte>
+    </kurs>
+
+</noten>
