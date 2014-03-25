@@ -95,7 +95,7 @@
                     <h2 class=" punkte grey">
                         <xsl:value-of select="round(sum(//kurs/note)) div 10"/>
                     </h2>
-                    </div>
+                </div>
                 <br/>
                 <br/>
                 <div>
