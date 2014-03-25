@@ -18,6 +18,7 @@
                     font-weight:bold;
                     }
                     h2 {
+                    marin-top:30px:
                     font-size:15pt;
                     font-weight:bold;
                     }
@@ -30,19 +31,19 @@
 
                     .bestanden {
                     background-color:lightgreen;
-                    width: 80px;
-                    height: 60px;
+                    width: 90px;
+                    height: 70px;
                     }
 
                     .durchgefallen {
                     background-color: red;
-                    width: 110px;
-                    height:60px;
+                    width: 150px;
+                    height:70px;
                     }
 
                     .grade {
                     float:left;
-                    width: 120px;
+                    width: 170px;
                     }
 
                     .grey {
@@ -77,6 +78,9 @@
                     }
                     .punkte {
                     width: 50px;
+                    }
+                    .dozent {
+                    text-transform:uppercase;
                     }
                 </style>
 
@@ -138,8 +142,8 @@
         </div>
         <div>
             <xsl:value-of select="nummer"/><xsl:text>     </xsl:text>
-            <b>
-                <xsl:value-of select="dozent"/>
+            <b class="dozent">
+            <xsl:value-of select="dozent"/>
             </b>
         </div>
         <br/>
