@@ -10,13 +10,13 @@
 
         \begin{document}
         \title{Meine Noten}
+        \author{Maximilian Feigl}
         \date{letzte Änderung am \today}
 
         \maketitle
         \tableofcontents
 
         <xsl:variable name="sort_param" select="'titel'"/>
-        \section{Noten - Meine Noten}
         Alle Noten sortiert nach <xsl:value-of select="$sort_param"/>\newline
 
         <xsl:for-each select="//kurs">
@@ -27,8 +27,7 @@
 
 
     <xsl:template name="Daten">
-        \subsection{Kurs
-        <xsl:value-of select="position()"/>
+        \section {<xsl:value-of select="titel"/>}\newline
         <xsl:value-of select="nummer"/> \newline
         <xsl:value-of select="dozent"/> \newline
         \newline

@@ -6,18 +6,18 @@
 
         \begin{document}
         \title{Meine Noten}
+        \author{Maximilian Feigl}
         \date{letzte Änderung am \today}
 
         \maketitle
         \tableofcontents
 
         
-        \section{Noten - Meine Noten}
         Alle Noten sortiert nach titel\newline
 
         
-        \subsection{Kurs
-        1123456 \newline
+        \section {Weißwurstessen}\newline
+        123456 \newline
         Dr. Händlmeier \newline
         \newline
         Modul:
@@ -29,8 +29,8 @@
         Note:
         1.3 \newline
     
-        \subsection{Kurs
-        2123756 \newline
+        \section {Masskrugstemmen}\newline
+        123756 \newline
         Prof. Knei \newline
         \newline
         Modul:
@@ -42,8 +42,8 @@
         Note:
         3.2 \newline
     
-        \subsection{Kurs
-        3133456 \newline
+        \section {Radlfahrn}\newline
+        133456 \newline
         Dr. Scott \newline
         \newline
         Modul:
@@ -55,8 +55,8 @@
         Note:
         5.0 \newline
     
-        \subsection{Kurs
-        4123956 \newline
+        \section {Brezn salzn}\newline
+        123956 \newline
         Salzer \newline
         \newline
         Modul:
@@ -68,8 +68,8 @@
         Note:
         2.3 \newline
     
-        \subsection{Kurs
-        5023456 \newline
+        \section {Pizza aufwärmen}\newline
+        023456 \newline
         Dr. Händlmeier \newline
         \newline
         Modul:
@@ -81,8 +81,8 @@
         Note:
         1.8 \newline
     
-        \subsection{Kurs
-        6122456 \newline
+        \section {Radieren}\newline
+        122456 \newline
         Dr. Faber \newline
         \newline
         Modul:
@@ -94,8 +94,8 @@
         Note:
         2.7 \newline
     
-        \subsection{Kurs
-        7123476 \newline
+        \section {Schafkopfn}\newline
+        123476 \newline
         Prof. Tout \newline
         \newline
         Modul:
@@ -107,8 +107,8 @@
         Note:
         1.6 \newline
     
-        \subsection{Kurs
-        8120476 \newline
+        \section {Schneemann bauen}\newline
+        120476 \newline
         Captn Iglu \newline
         \newline
         Modul:
@@ -120,8 +120,8 @@
         Note:
         3.6 \newline
     
-        \subsection{Kurs
-        9193476 \newline
+        \section {Grillen}\newline
+        193476 \newline
         Prof. Grilli \newline
         \newline
         Modul:
@@ -133,8 +133,8 @@
         Note:
         2.6 \newline
     
-        \subsection{Kurs
-        10823476 \newline
+        \section {Lagerfeuer ausbiesln}\newline
+        823476 \newline
         Prof. FF \newline
         \newline
         Modul:
