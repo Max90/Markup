@@ -9,7 +9,6 @@
     <xs:element name="noten">
         <xs:complexType>
             <xs:sequence>
-
                 <xs:element name="kurs" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
